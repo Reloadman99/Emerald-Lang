@@ -1,2 +1,2 @@
-# Emerald-Lang
+# Emerald
 Emerald is a general purpose programming language.
